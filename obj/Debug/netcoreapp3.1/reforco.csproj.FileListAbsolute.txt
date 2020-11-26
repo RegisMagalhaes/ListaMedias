@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\bin\Debug\netcoreapp3.1\reforco.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\reforco\obj\Debug\netcoreapp3.1\reforco.genruntimeconfig.cache
